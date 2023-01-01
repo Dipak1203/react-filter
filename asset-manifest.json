@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-filter/static/css/main.c2cab247.css",
+    "main.js": "/react-filter/static/js/main.070f3e60.js",
+    "static/media/burger.jpg": "/react-filter/static/media/burger.712b5634d2a775caa3bd.jpg",
+    "static/media/momos1.jpg": "/react-filter/static/media/momos1.ee7a34f2812f303102bc.jpg",
+    "static/media/tea1.jpg": "/react-filter/static/media/tea1.ab3596d2cb81f885778f.jpg",
+    "static/media/pizza.jpg": "/react-filter/static/media/pizza.4c43df618e6878395117.jpg",
+    "static/media/burger2.jpg": "/react-filter/static/media/burger2.d9fe8df7d9a24d10c0e6.jpg",
+    "static/media/pizza1.jpg": "/react-filter/static/media/pizza1.9da3ed832e72f37b4e39.jpg",
+    "static/media/burger1.jpg": "/react-filter/static/media/burger1.b9b7511c1cbbae0fdec5.jpg",
+    "static/media/chaumin1.jpg": "/react-filter/static/media/chaumin1.0726b8017af21540dc66.jpg",
+    "static/media/momos.jpg": "/react-filter/static/media/momos.fda05279a6376954a568.jpg",
+    "static/media/pizza2.jpg": "/react-filter/static/media/pizza2.79e7e65d500296e5782c.jpg",
+    "static/media/chaumin.jfif": "/react-filter/static/media/chaumin.9c6b1ff297f3dae567d7.jfif",
+    "index.html": "/react-filter/index.html",
+    "main.c2cab247.css.map": "/react-filter/static/css/main.c2cab247.css.map",
+    "main.070f3e60.js.map": "/react-filter/static/js/main.070f3e60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.070f3e60.js"
+  ]
+}
